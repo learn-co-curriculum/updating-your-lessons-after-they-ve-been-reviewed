@@ -12,4 +12,4 @@ Sometimes you might disagree with some of the suggestions we raised. If that's t
 
 When you're all done updating, @mention AnnJohn in the PR and let us know that it's ready for another review. 
 
-<a href='https://learn.co/lessons/updating-your-lessons-after-they-ve-been-reviewed' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/updating-your-lessons-after-they-ve-been-reviewed' title='Congrats on submitting your first pass at lessons. It probably wasn't easy and you might have found yourself going back to this curriculum guide for help along the way. '>Congrats on submitting your first pass at lessons. It probably wasn't easy and you might have found yourself going back to this curriculum guide for help along the way. </a> on Learn.co and start learning to code for free.</p>
